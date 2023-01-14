@@ -1,0 +1,110 @@
+[
+    {
+    "id": 1,
+    "temps": "Fa 1 setmana que està aqui",
+    "nom": "FIRULAIS",
+    "srcimg": "https://images.pexels.com/photos/127027/pexels-photo-127027.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "1 mes",
+    "url": "#"
+    },
+    {
+    "id": 2,
+    "temps": "Fa 2 mesos que està aqui",
+    "nom": "TOM",
+    "srcimg": "https://images.pexels.com/photos/20787/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "2 anys",
+    "url": "#"
+    },
+    {
+    "id": 3,
+    "temps": "Fa 6 mesos que està aqui",
+    "nom": "BALDUFA",
+    "srcimg": "https://images.pexels.com/photos/236660/pexels-photo-236660.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "14 anys",
+    "url": "#"
+    },
+    {
+    "id": 4,
+    "temps": "Fa 2 mesos que està aqui",
+    "nom": "TINA",
+    "srcimg": "https://images.pexels.com/photos/1056251/pexels-photo-1056251.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "1 anys",
+    "url": "#"
+    },
+    {
+    "id": 5,
+    "temps": "Fa 4 mesos que està aqui",
+    "nom": "CLEO",
+    "srcimg": "https://images.pexels.com/photos/177809/pexels-photo-177809.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "2 anys",
+    "url": "#"
+    },
+    {
+    "id": 6,
+    "temps": "Fa 3 mesos que està aqui",
+    "nom": "NAMASTE",
+    "srcimg": "https://images.pexels.com/photos/1276553/pexels-photo-1276553.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "2 anys",
+    "url": "#"
+    },
+    {
+    "id": 7,
+    "temps": "Fa 1 mes que està aqui",
+    "nom": "LLUNA",
+    "srcimg": "https://images.pexels.com/photos/1084425/pexels-photo-1084425.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "4 anys",
+    "url": "#"
+    },
+    {
+    "id": 8,
+    "temps": "Fa 5 mesos que està aqui",
+    "nom": "PAQUITA",
+    "srcimg": "https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "5 anys",
+    "url": "#"
+    },
+    {
+    "id": 9,
+    "temps": "Fa 3 mesos que està aqui",
+    "nom": "PRUNA",
+    "srcimg": "https://images.pexels.com/photos/1404819/pexels-photo-1404819.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "1 any",
+    "url": "#"
+    },
+    {
+    "id": 10,
+    "temps": "Fa 1 mes que està aqui",
+    "nom": "CENDRA",
+    "srcimg": "https://images.pexels.com/photos/479009/pexels-photo-479009.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "4 mesos",
+    "url": "#"
+    },
+    {
+    "id": 11,
+    "temps": "Fa 6 mesos que està aqui",
+    "nom": "TIGER",
+    "srcimg": "https://images.pexels.com/photos/979247/pexels-photo-979247.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "10 anys",
+    "url": "#"
+    },
+    {
+    "id": 12,
+    "temps": "Fa 3 mesos que està aqui",
+    "nom": "LUIGI",
+    "srcimg": "https://images.pexels.com/photos/54632/cat-animal-eyes-grey-54632.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "alt": "Imatge del gat ",
+    "edat": "3 anys",
+    "url": "#"
+    }
+]
